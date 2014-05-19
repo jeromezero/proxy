@@ -12,7 +12,7 @@ This work (and everything Caligo Press does) is licensed under a [Creative Comm
 
 Design by Caligo Press\
 
-First Caligo Edition: January 2014\
+First Caligo Edition: <!-- NOW? -->\
 
 
 
