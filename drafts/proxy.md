@@ -28,9 +28,9 @@ Your journals are full of lies.
 The occasional truths you write are obscured, buried by self-conscious insecurities or disguised as half-baked science fiction. 
 
 However, one leather-bound journal breaks this rule with a few honest entries.
-I find it under your bed, in a cardboard box with crushed corners labelled 'linens.'
+I find it under your bed, in a cardboard box with crushed corners labeled 'linens.'
 
-In it, there is an essay (with a date printed neatly at the top of the page--it is only a few weeks old) in which you describe finding your neigbor lying dead on his apartment floor. This one is good, but *A List of Things Wrong With Me* (appearing a few pages prior to the death of a neighbor piece) is my favorite. 
+In it, there is an essay (with a date printed neatly at the top of the page--it is only a few weeks old) in which you describe finding your neighbor lying dead on his apartment floor. This one is good, but *A List of Things Wrong With Me* (appearing a few pages prior to the death of a neighbor piece) is my favorite. 
 It is a list of things wrong with you. 
 It starts with "My penis points slightly to the left," and moves through "I suffer from chronic dandruff," and "hair growing out of my ears," to the more interesting "I am so out of touch with my own emotional experience that I seldom have an accurate understanding of my own feelings--in fact, I tend to transmute every difficult emotion into sexual desire. 
 Things that should make me angry give me a hard on."
@@ -45,7 +45,7 @@ I work a shift at one of your jobs, hanging posters around the city, and go dire
 
 This is what you know, in your bones.
 
-Mid-morning, I look over your manuscript. I go back and forth between stacks of papers and the computer screen. Spreadsheets and outliners and word processors and text editors spread themself across virtual workspaces, all vying for my attention.
+Mid-morning, I look over your manuscript. I go back and forth between stacks of papers and the computer screen. Spreadsheets and outliners and word processors and text editors spread themselves across virtual workspaces, all vying for my attention.
 
 There is glue all over my pants and my shoulders ache.
 
@@ -125,7 +125,7 @@ I don't know what I am saying until I say it. I just relax and let the words com
 
 "I am unhappy?"
 
-She leans against the wall, crossing her arms under her gossamer bouyancies. <!-- or how 'bout "BREASTS" --> "You would know," she says. "Maybe you are happy like this. I don't want to put words in your mouth, but you don't look happy. But fuck it. You would know."
+She leans against the wall, crossing her arms under her gossamer buoyancies. <!-- or how 'bout "BREASTS" --> "You would know," she says. "Maybe you are happy like this. I don't want to put words in your mouth, but you don't look happy. But fuck it. You would know."
 
 "I've got a hard on. Does that mean I'm happy?"
 
@@ -191,7 +191,24 @@ You owe three thousand dollars. Perhaps not the best timing in quitting the day 
 
 Your mundane fears and anxieties do not effect me. I am a machine. A book writing machine. What do I care about your bank statement? What do I care about your wife's state of mind? I am here to disconnect from the conventional trappings of society. To free you from your bonds, at least temporarily, so you can achieve something, so you can write your book. 
 
-<!-- TODO: pickup edit here -->
+---
+
+<!-- 2014-06-03 | 05:19:22 -->
+
+When you called me in, they hooked you up to a machine. They taped diodes to your body. 
+They flashed images before your eyes. They asked you questions. "What do you see?" 
+
+You saw roadkill. You saw rifles aimed at the sky. You saw chains.
+
+The purpose of these tests was to loosen you up. To slip an image into a cognitive gap and pry your mind loose from its moorings. To prepare you for my arrival.
+
+They played sounds in your ears.
+They asked you questions. 
+"What do you hear?"
+
+You heard tones.
+
+"When you hear two tones that are slightly out of pitch alignment, you hear an oscillating reinforcement pattern. The tones cross-talk, and you get a tremolo effect. A subtle pulsing caused by a dissonant overlap. One of the remarkable things about the brain--about the normal brain--is that it will actually recreate this pulsing tremolo, even when the two tones never meet. If we play a different tone directly into each ear--eliminating any physical phase cancellation from the wave patterns--the brain will recreate *subjectively* the physical phenomena of interference: you should hear the pulsing tremolo in your head, as a pure mental artifact, as the brain combines the two tones into one auditory experience, the interference pattern re-emerges in your perception, if not in the physical world. Every once in a while, we get a rare case like yours, in which the two tone are not reassembled properly, or in the expected manner, I should say. This is common in cases of brain injury especially. The hemispheres become disconnected. They each process data individually, without talking to one another. The right brain and the left brain continue in almost normal operation, but without being aware of what the other is doing. In and of itself, this is not a problem, but this condition often accompanies a number of other symptoms, not the least of which is emotional dissociation--a disconnect between a patient's emotional experience and their rational mind. It can be very isolating ..."
 
 ---
 
@@ -199,11 +216,11 @@ A selection of keys hangs in the entrance hall.
 
 One of them opens the door to your dead neighbor's apartment. You know the key by touch. It is bigger than the others. It is freshly cut. It has a large, rounded base. I hold the key in my hand.
 
-I read the piece you wrote about finding him dead on his apartment floor.
+I go back to your desk and read the piece you wrote about finding your neighbor dead on his apartment floor.
 
 He was angry with you. For not being able to say no. For not carving out the space in your life to focus on the things that are important to you. For not taking the time to write. 
 
-You took care of him. You regret not taking better care of him. You should have known he was going to die. But, there is a difference between the slow, inevitable approach of death and its immediate onset. You know one day you will reach the end of the journey, but the horizon never seems to draw any closer. One day you will die, but that day is never today, until it is. You go about your affairs as if life will go on forever.
+You took care of him. You regret not taking better care of him. You should have known he was going to die. But, there is a difference between the slow, inevitable approach of death and its immediate onset. You know one day you will reach the end of the journey, but the horizon never seems to draw any closer. One day you will die, but that day is not today. That day is never today, until it is. You go about your affairs as if life will go on forever.
 
 Your neighbor's last day was like this.
 
@@ -241,60 +258,58 @@ His last words to you were a request for another oxycodone, which you brought to
 
 The key to his apartment is heavy in my hand.
 
-None of this affects me. I am a machine. I don't care about your dead neighbor. I don't care about your taxes. And your wife ....
+<!-- [2014-06-16 05:09] -->
 
-But three thousand dollars would clear out some space in your life. It would buy some time to write.
-
-Your neighbor's apartment is musty. It smells faintly of old carpet. His cane is hung over the bathroom door. His bed is unmade, as if he had just risen. There is some change and unsorted mail on the sideboard. 
+The apartment is musty. It smells of old carpet. Your neighbor's cane is hung over the bathroom doorknob. His bed is unmade, as if he had just risen. There is some change and unsorted mail on the sideboard. 
 Dresser drawers contain socks, underclothes, nothing more. 
-No jar under the bed. No cash cache anywhere. <!-- really? is that how you want to say it? -->
 A stack of newspapers by his easy chair. 
 Files. Papers. 
-On the table, his checkbook. But no cash. 
+On the table, unread junk mail. 
 
 I don't find the money. I come out of his apartment with a roll of stamps and a handful of oxycodone.
 
 ## Three <!-- STATUS: second draft -->
 
-There is a bookcase on the desk. The bookcase is painted blue. It sits atop your desk, crowding out the workspace. It is clogged with notebooks and styleguides and volumes of symbolism and mythology and etymology and literary criticism and narrative structure and folklore and poetry.
+There is a bookcase on your desk. The bookcase is painted blue. It sits there, crowding out the workspace. It is clogged with notebooks and style guides and volumes of symbolism and mythology and etymology and literary criticism and essays on narrative structure and folklore and poetry.
 
-This is a collection of reference materials selected to give the impression of dedication to the craft of writing. There is something artificial about the presentation. It strikes me as something a third-rate set designer would cobble together--as a hobbyists idea of what a writer's desk should be.
+This is a collection of reference materials selected to give the impression of one dedicated to the craft of writing. The presentation is artificial. It strikes me as something a third-rate set designer would cobble together--it is the hobbyists idea of what a writer's desk should be.
 
-A length of twine is stretched taut between two nails driven into the face of the bookcase. A binder clip on the line holds an image--a printed four by six index card. A black Madonna and child. Her face is long, her eyes disproportionately high in her face, leaving her with a small, compressed forehead. She wears a black hooded robe emblazoned with a pattern of fleur de lis. It is hemmed in gold and lined with deep red silk. In the crook of her left arm, the child half-sits, half stands. He is almost floating there. He is not proportioned like a child, but looks something like a small man. He wears a robe of deep red, without a hood, and printed with a repeating pattern of gold sunbursts. He holds a book on his lap, clutching it to his stomach with his left hand. His right hand is raised. At first, I think he is holding on to the hood of his virgin mother's robe, but when I look a little closer, I see that his hand is raised in greeting, the first two fingers pointing up toward the two scratches on his mothers face, or beyond. The third and fourth fingers are tucked away beneath his thumb.
+A length of twine is stretched taut between two nails driven into the face of the bookcase. A binder clip on the line holds an image printed on a four-by-six index card. A black Madonna and child. Her face is long, her eyes disproportionately high in her face, leaving her with a small, compressed forehead. She wears a black hooded robe emblazoned with a pattern of fleur de lis. It is hemmed in gold and lined with deep red silk. In the crook of her left arm, the child half-sits, half stands. He is almost floating there. He is not proportioned like a child, instead he looks something like a small man. His robe is hoodless and deep red, a V-neck printed with a repeating pattern of gold sunbursts. He holds a book on his lap, clutching it to his stomach with his left hand. His right hand is raised. At first, I think he is holding on to the hood of his virgin mother's robe, but when I look a little closer, I see that his hand is raised in greeting, the first two fingers pointing up toward the two scratches on his mothers face, or beyond. The third and fourth fingers are tucked away beneath his thumb.
 
-The child's robe is a V-neck. Both mother and child have gold cuffs and perfect round halos.
-
-Something about the image reminds me of your wife.
+Both mother and child have gold cuffs and perfect round halos.
 
 ---
 
 Your book needs whiskey.
 
-You had a good ride in the wagon, but sacrifices need to be made.
+You had a good ride on the wagon, but sacrifices need to be made.
 
 I put the bottle on the desk while I sort through the wreckage of your manuscript. 
 
 ---
 
-The protagonist hands a bath house attendant a tarot card as an order token. He steps into a giant tub and hot blue water pours down on him. After the tub fills, he pulls a chain and the bottom drops out. The tub flushes like a toilet, sucking the protagonist down the drain. He struggles to keep above water, but is knocked unconscious. He wakes up in the bathroom of a commuter train. He is on his knees, staring into the blue water of the toilet, which is slick with the rainbow hues of spilt gasoline.
+The protagonist hands a bath house attendant a tarot card as an order token. He steps into a giant tub and hot blue water pours down on him. After the tub fills, he pulls a chain and the bottom drops out. The tub flushes like a toilet, sucking the protagonist down the drain. He struggles to keep above water, but is knocked unconscious. He wakes up in the bathroom of a commuter train. He is on his knees, staring into the blue water of the toilet, which is slick with the rainbow hues of spilled gasoline.
 
-The scene is rewritten three or four times, with various features. He enters a boathouse. A hooded, skeletal figure with eight arms takes a token of salt and blood and leads the protagonist into a small boat. Chain gears engage and the amusement park ride begins. It is something between a tunnel of love and a house of horrors. Your protagonist is incrementally overtaken by terror and desire. Hands reach out of the darkness to caress him. He is titillated and terrified. 
+The scene is rewritten three or four times, with various features. He enters a boathouse. A hooded, skeletal figure with eight arms takes a token of salt and blood and leads the protagonist into a small boat. Chain gears engage and the amusement park ride begins. Your protagonist is incrementally overtaken by terror and desire. Hands reach out of the darkness to caress him. He is titillated and terrified. 
 
 The anonymous hands tear his clothes from him and push him into the water.
 
 <!-- 2014-03-29 | 16:35:44 -->
 
-Sex and Panic grow until he lets go and falls into a climactic orgasm of relief--the complete dissolution of his conscious being. You describe it as 'the moment when a drowning man ceases to fear or his life and accepts a lungful of water.'
+Sex and panic grow and he struggles in desperation, clinging to life until he is finally overwhelmed and he lets go and falls into the great release,
+a complete dissolution of his conscious being-- 
+a climactic orgasm of the relief of death.
+You describe it as 'the moment when a drowning man ceases to fear or his life and accepts a lungful of water.'
 
-He wakes up in the bathroom of a commuter train, staring at the rainbow film floating on the deep chemical blue of the toilet water.
+He again wakes in the bathroom of a commuter train, staring at the rainbow film floating on the deep chemical blue of the toilet water.
 
 A third take on the scene describes your protagonist climbing into a coffin-sized canister--a message capsule for a massive pneumatic tube delivery system. He is shot out into the black void of empty space, where he realizes that he is, and always has been, utterly and terribly alone.
 
-He struggles in the confined space, desperately trying to masturbate before he dies. He manages to grip his erection and squeeze it in the palm of his hand, but there isn't enough space in the canister to move. He can't complete the task he has set out to.
+He struggles in the confined space, desperately trying to masturbate before he dies. He manages to grip his erection and squeeze it in the palm of his hand, but there isn't enough space in the canister to get an effective rhythm going. He can't complete the task he has set out to.
 
 ---
 
-I tab away from your text.
+I slip away from the manuscript.
 
 I Google transubstantiation and metempsychosis and ritual and I slide down the slope of Jung and Campbell and Joyce to morality, good and evil, and I am on to Schopenhauer.
 
@@ -304,13 +319,7 @@ Time is everything now. Focus is everything.
 
 I am a machine. I am focused. On target.
 
-I should set aside blocks of time and make estimates of expenditures for each task I will be undertaking in the completion of the novel.
-
-I make lists. Things to change. Things to stay the same.
-
-In order to craft a work that will be read with ease and enthusiasm, I need time. Time is the key.
-
-I look at time management applications, timers and spreadsheets. I write snippets of JavaScript to integrate these applications with your online calendar so I can pull reports and analyze my workflow. Compare projections to results in order to streamline efficiency.
+I make lists of things to change. Lists of things to stay the same.
 
 <!-- 2014-03-29 | 17:03:35 -->
 
@@ -318,7 +327,9 @@ I look at time management applications, timers and spreadsheets. I write snippet
 
 Your habits and tendencies are creeping into me, crawling in through the gaps of exhaustion, forcing their way into my consciousness.
 
-Every time I sit at your desk, I either fall asleep or I drift off into some distraction, whether that is software tweaking and manipulation or just messing with things at the desk. I must stay focused. I quit your day job. This will free up time. This will give me the opportunity to be well rested. To be alert when I confront the page.
+Every time I sit at your desk, I either fall asleep or I drift off into some distraction, some habit of yours. I struggle to stay focused. 
+
+I've already quit your day job. This will free up time. This will give me the opportunity to be well rested and alert when I confront the page.
 
 But I need something else. I need to get away from this computer, where your habits and unconscious tendencies are strong. I need a typewriter.
 
@@ -328,7 +339,7 @@ I go back to the computer. I research typewriters. EBay. Etsy. These are my best
 
 I find a machine for sale. A West German machine. Distributed in the United States under the name AMC, the machine was manufactured in 1958 by a company called Alpina. It is a marvel of engineering, as far as the typewriter blogs would have it.
 
-I am particularly interested in a photograph from the early sixties that may or may not have been an official Alpina promotional shot. The image features a contortionist in a gold sequined bikini. She is resting her elbows on a thick shag or sheepskin rug, her fingers on the keys of the typewriter in front of her. The model of typewriter in the photograph is essentially the same as the typewriter I have ordered, though it is a later model with a different color scheme. It was also released under the official German name of Alpina, and has the appropriate chrome branding hardware (which is a more aesthetically pleasing design than that of the AMC version). The contortionists body is twisted up behind her, her back arched--nearly folded in half--so her feet point in the same direction of her hands. Her body appears to be almost rolled into a little ball, with her back on the inside. 
+I am particularly interested in a photograph from the early sixties that may or may not have been an official Alpina promotional shot. The image features a contortionist in a gold sequined bikini. She is resting her elbows on a thick shag or sheepskin rug, her fingers on the keys of the typewriter in front of her. The contortionists body is twisted up behind her, her back arched--nearly folded in half--so her feet point in the same direction of her hands. Her body appears to be almost rolled into a little ball, with her back on the inside. 
 
 If I were behind her, on my knees, I could lean in and bite her vagina. Her little mound--though it is covered by the taught, shimmering fabric--is exposed. The arc of her stretching body lifts it toward heaven.
 
@@ -336,7 +347,9 @@ I consider myself to be an ass enthusiast, but I am intrigued by this inverted p
 
 If I were to eat her out from behind, I'd place my hands upon her and spread her wide open so I could pull her sequined panties aside and tickle her twat with my tongue. But my hands would not be on her ass at all. They would be on her hips, on her thighs. I would spread her apart, open her up, and drink of her vulvic nectar without placing my tasting face between her cheeks. Her cannon would not be pointed at me, but at the heavens. At god himself.
 
-I open a new tab and order the typewriter. It will arrive at the hotel (shipping to a downtown apartment is unreliable at best) within two weeks.
+<!-- her cannon? -->
+
+The typewriter will arrive at the hotel (shipping to a downtown apartment is unreliable at best) within two weeks.
 
 I am a machine. I am focused. I am uncompromising. I am carving out the space I need. I've quit your job and I've bought a typewriter. Things are looking up.
 
@@ -348,13 +361,14 @@ Would I miss it? Would I miss her cheeks pressing in on mine as I kissed her fro
 
 "How's the writing going?" your wife asks.
 
-"Jesus Christ," I say, my heart skipping a beat. "I didn't hear you come in. Check it out. I ordered one of these typewriters."
+"Jesus Christ," I say, involuntarily. "I didn't hear you come in. Check it out. I ordered one of these typewriters."
 
-She shrugs out of her unbuttoned shirt and tosses it in the direction of the hamper. As she walks toward me, she drops her bra to the floor. Her breasts are bright and fresh. She has tight, petunia-pink areolas and pencil eraser nipples.
+She shrugs out of her unbuttoned shirt and tosses it in the direction of the hamper. As she walks toward me, she drops her bra to the floor. Her breasts are bright and fresh. She has tight, petunia-pink aureoles and pencil eraser nipples.
 
 "Remember Outside Lands?" she says. "I wanted to punch *everyone* in the face that year." She peels off her jeans and leans across your desk to get a better look at the computer screen.
 
-Her panties are printed with the same golden sunburst pattern as the Holy Child's robe. Her hip holds the same graceful curve as the virgin mother's hood. The soft dimple of flesh along her spine leads my gaze to the perfect glowing globes of halo--the golden, perfect globes of her ass. Her iconic derriere.
+Her panties are printed with the same golden sunburst pattern as the Holy Child's robe. Her hip holds the same graceful curve as the virgin mother's hood. The soft dimple of flesh along her spine leads my gaze to her ass. 
+<!-- Her iconic derriere. -->
 
 "Nice," she says. "I thought you were looking at porn."
 
@@ -364,17 +378,20 @@ Explosions of golden sunburst send sparks through my brain.
 
 Your wife lifts the bottle of whiskey from the desk and knocks back a slug. She disappears into the kitchen and returns a few minutes later with a pair of lowball glasses tinkling with ice and glowing with golden liquid.
 
-"I'm quitting my day job," I tell her.
+"I quit my job," I tell her.
 
 ---
 
 Have we been here before? I am on the street, in front of a long billboard, stripping away the layers of old advertisements.
 
-I slide your scraper between Lady Gaga and Rolling Rock and I twist and pull on the handle, forcing it toward me, millimeter by millimeter. The paper stretches and strains until it cracks with the mighty snap of a firecracker or a cap gun. I slam the scraper into the widening gap, smashing the layers apart little by little, blow by blow.
+I slide your scraper between Lady Gaga and Rolling Rock and I twist and pull on the handle, forcing it toward me, millimeter by millimeter. The paper stretches and strains until it cracks with the snap of a firecracker. I slam the scraper into the widening gap, smashing the layers apart little by little, blow by blow.
 
 Once I get a handle on it, once a good run is going, the paper tears away from the plywood easily, tearing clean away in long, jagged strips. I tear the larger sheets into smaller sheets and lay them carefully into large black plastic bags, keeping everything neat and flat so they will all fit easily into the trunk of the car.
 
-But of course you know all about this. I am falling into the same trap you fell into--leaving me excessive notes, describing to me all the things I would need to do, as if I would not be aware of them by simple fact of proxy. Here were are, addressing each other from either side of an insurmountable abyss, telling each other things we already know.
+But of course you know all about this. I am falling into the same trap you fell into--leaving me excessive notes, describing to me all the things I would need to do, as if I would not be aware of them by simple fact of proxy.
+<!-- the simple facts of proxy and habit? proximity and habit -->
+
+Here were are, addressing each other from either side of the abyss, telling each other things we already know.
 
 The cell phone rings in my pocket. It is your wife. She sounds panicked. 
 
@@ -382,7 +399,7 @@ The cell phone rings in my pocket. It is your wife. She sounds panicked.
 
 She can. Should take her ten minutes to get here.
 
-Forty minutes later, I call her back. She doesn't know where she is. "Fuck that place." She says into the phone, not quite shouting. "They don't care about me there. They don't give a shit. I ... I changed into my work clothes, and then I threw up. I changed back into my street clothes, but I just sat there, shaking. I was going to walk out. Without saying anything. Just walk out of there. But I threw up, and I put my work clothes back on."
+Forty minutes later, I call her back. She doesn't know where she is. "Fuck that place." She says into the phone, not quite shouting, not quite crying. "They don't care about me there. They don't give a shit. I ... I changed into my work clothes, and then I threw up. I changed back into my street clothes, but I just sat there, shaking. I was going to walk out. Without saying anything. Just walk out of there. But I threw up, and I put my work clothes back on."
 
 "Where are you?" I say.
 
@@ -402,11 +419,11 @@ I take one of the pills myself and sit down with your notes while your wife lays
 
 I log into your computer and open your text editor. I lay a stack of notecards on the surface of the desk next to the computer and I go to work, tapping out a few notes to get things started. Living typewriters crawl around in the darkness of my head, communicating between one world and the next. They send messages from one side of the abyss to the other, passing messages from the living to the dead, from the dead to the living. They tell each other things they already know.
 
-I write. I get into a rhythm. It goes. The story takes shape. For the first time I see that shape taking form. Like a silhouette in the darkness. I want her. She wants him. He wants me.
+I write. I get into a rhythm. It goes. The story takes shape. For the first time I see that shape taking form. Like a silhouette against the darkness. I want her. She wants him. He wants me.
 
 "I thought you'd be asleep," I say. Your wife is propped up on pillows, watching television with a glass of whiskey in her hand.
 
-"I can't sleep," she says, slurring her words slightly. "I've been thinking. Not everyone gets it. This thing we have. Honesty is important, isn't it?
+"I can't sleep," she says, slurring her words. "I've been thinking. Not everyone gets it. This thing we have. Honesty is important, isn't it?
 
 I tell her that it is, up to a point. "Honesty is required to make a relationship like this work."
 
@@ -430,21 +447,19 @@ I tell her that it is, up to a point. "Honesty is required to make a relationshi
 
 "I've been thinking about what you said. About taking a lover. Maybe we should do it. Take lovers."
 
-"Sure," I say. "Why not?"
+"Why not?" I say.
 
-Do you know your wife wants to sleep with other men? How would you react in my place? Would you be angry?
+Do you know your wife wants to sleep with other men? How would you react in my place? Would you be angry? Should *I* be angry?
 
 I feel like less of an intruder.
 
-I think of the line from your poem.
+Your poem rings in my ears.
 
 > I am so out of touch with my own emotional experience that I seldom have an accurate understanding of my own feelings--in fact, I tend to transmute every stimulus into an expression of sexuality.
 
-"Sure," I say. "Whatever you want."
+"Whatever you want," I say.
 
-I don't know how I feel about this. It excites me. It sets some pinwheel spinning. Some unfamiliar feeling begins to stir.
-
-If she is inclined to take other lovers ... I am an other lover. I am a stranger in this house, though she does not know it.
+I don't know how I feel about this. It excites me. It troubles me. It sets some pinwheel spinning. An unfamiliar feeling begins to stir.
 
 "Great," says your wife, who is my wife too, if only by proxy. "Because I was hanging out with an old friend when I went back home. Nothing happened ... but we've been texting. We used to hook up, years ago. He's got a girlfriend now, but we were texting, and it just sort of came up. He's coming to town on Sunday. We're getting a hotel room."
 
@@ -474,28 +489,26 @@ Your wife's phone is on the stand in the hall, plugged into its charger. I know 
 
 Is this what she meant by 'honesty?'
 
-I know the passcode.
+'I just came so card for you,' she wrote. The time stamp is a couple of hours old. I was sitting at your desk, writing in your book, while she was sitting in your bed, writing that.
 
-'I just came so card for you,' she said. The time stamp is a couple of hours old. I was sitting at the desk, writing your novel.
+'Tie me up,' she wrote. 'Spank me. I want you to finish in my ass.' There are pictures. 'This is how wet I am for you. Watch me play with my pussy. I want to swallow your cock.'
 
-'Tie me up,' she said. 'Spank me. I want you to finish in my ass.' There are pictures. 'This is how wet I am for you. Watch me play with my pussy. I want to swallow your cock.'
+It goes on and on. She is better at it than he. He writes 'Dude, I wish it were Sunday already.'
 
-It goes on and on. She is better at this than he. He says 'Dude, I wish it were Sunday already.'
-
-I feel a breathless sinking feeling. Disorienting. I am light headed. I sit back at your desk and I crack my knuckles, looking at stacks of papers, reading the spines of your books, looking at the Black Virgin and her Child. They both look sad to me. Their lips are turned down. Their eyes are lidded and heavy, with dark circles under them.
+I feel a breathless sinking feeling. Disorienting. I am light headed. I sit back at your desk and I crack my knuckles, looking at stacks of papers, reading the spines of your books, looking at the Black Virgin and her Child. They both look sad. Their lips are turned down. Their eyes are lidded and heavy, with dark circles under them.
 
 What is this feeling? Why am I feeling this? I should be relieved. She will be out of the apartment more. I will have time to write. The typewriter will not have arrived by Sunday ... but this affair might go on for some time. Perhaps the distraction will continue for several months. Perhaps this is the beginning of the end.
 
-She isn't quite awake when I shove her face down into the pillow. "You dirty fucking slut," I say. 
-<!-- NOTE: instead of sex, "I" could kill "her" -->
+She isn't quite awake when I shove her face down into the pillow. "You dirty slut," I say. 
+
 I rip the blankets aside and sink my palm into the round of her ass with a resounding clap. I peel down her panties, rolling them across the halo of her iconic derriere.
 
 I spread her cheeks apart and press my face into her. I spank her as I tickle her asshole with my tongue. I slide my hands under her hips and life her up so I can lick her clitoris. She is salty and slick.
 
-I tease her with my tongue and slide my fingers inside her. She moans with evil pleasure as I enter her, pushing her down, pulling her hair.
+I tease her with my tongue and slide my fingers inside her. She moans as I enter her, pushing her down, pulling her hair.
 
-When it is over she breathes a quivering sigh of relief. "Sorry," she says. "I'm too drunk to come."
+When it is over she breathes a quick sigh. "Sorry," she says. "I'm too drunk to come."
 
-She turns away from me, wrapping her arms around a pillow.
+She turns away from me and wraps her arms around a pillow.
 
-I get up and go back to your desk. I begin to write. The taste of your wife lingers on my tongue, and the words fly from my pen. I couldn't stop them if I tried.
+I get up and go back to your desk. I begin to write. The taste of your wife lingers on my tongue, and the words drip from my pen. I couldn't stop them if I tried.
