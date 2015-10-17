@@ -111,9 +111,9 @@ Keys drop to the floor. Someone picks them up and goes back to the lock.
 
 ---
 
-Your wife is home.
+<!-- Your wife is home. -->
 
-She is wearing a little sundress. Her hair is blond with streaks of color.
+Your wife is wearing a little sundress. Her hair is blond with streaks of color.
 It is up. Braids pinned into buns. Red lipstick. Shimmering eyeshadow. She's
 a little off-balance on her sneakered feet.
 
