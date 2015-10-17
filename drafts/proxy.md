@@ -20,13 +20,18 @@ This is going to hurt.
 
 ---
 
-You've left stacks of notes for me. I told you not to. It's a waste of time.
+I told you: 
+If you know it, I know it. 
+
+But still, you've left stacks of notes for me. I told you not to. I told you
+not to waste your time. <!-- our time. --> 
+
 I don't need to know how to jiggle the toilet handle. I don't need the
 mnemonic devices you've devised to keep all the keys on your several
 keyrings straight. I don't need your work schedules, your training manuals
 or your roles-and-responsibilities cheat sheets. I don't care how many jobs
 you have, how hard you work or what your facebook password is. I am not
-interested. I am not impressed. If you know it, I know it. I told you this.
+interested. I am not impressed.
 
 Your journals are full of lies. The occasional truths you write are
 obscured, buried by self-conscious insecurities or disguised as half-baked
@@ -50,18 +55,23 @@ make me angry give me a hard on."
 
 ---
 
-I familiarize myself with your manuscript. Many of the pages have dates
-attached, so it is possible to tell which are early drafts, and which are
+I do not include such things to be cruel to you, to embarrass you or reveal
+your secrets. I include them because I must.
+
+
+Here is the book you would have me write. Your raw notes and unfinished
+manuscript pages. I familiarize myself. Many of the pages have dates
+attached, so it is possible to tell which are early drafts and which are
 later revisions. Some of the early pieces are much better than the later
 iterations that have replaced them.
 
 ---
 
 I work a shift at one of your jobs, hanging posters around the city, and go
-directly to another, where you work as a night-auditor for a 'rock and roll'
-themed hotel. After the night shift, I work another shift hanging posters.
+directly to another, where you work as a night-auditor for a 'rock-and-roll'
+hotel. After the night shift, I work another shift hanging posters.
 
-This is what you know, in your bones.
+This is what you know, and so I know it too.
 
 Mid-morning, I look over your manuscript. I go back and forth between stacks
 of papers and the computer screen. Spreadsheets and outliners and word
@@ -78,46 +88,30 @@ insects making little machine sounds.
 
 Your work schedule is detrimental to the quality of your writing.
 
-You are dead tired and half asleep every time you sit down to write. You
-can't expect to make sense. You aren't even there--you aren't even
-present--when you confront the page.
+You are either dead tired or half asleep every time you sit down to write.
+You can't expect to make sense. You aren't even there when you confront the
+page.
 
-I am dead tired and half asleep. I'll have another stab at this tomorrow.
-Have I logged any words yet? No. Have I scratched out or highlighted any
-passages? No. But I *am* holding a pen in my hand.
+I am dead tired or half asleep. 
+Doing nothing but
+holding a pen in my hand.
 
-I scratch the inside of my ear with the pen. I put the non-business
-end--would that be the 'party' end?--into my ear and twist it around.
-
-The pen: on this end, business; on that end, party.
-
-Some party.
-
-What kind of party *is* this?
-
-Exploration of the Erie canal. Anything worth reporting, boys? I examine the
-party end of the pen. A few yellow flakes of earwax loosely adhere to the
-blunt cylinder.
-
-This party sucks.
-
-<!-- TODO: kill this business end / party end pen scene ? -->
 
 ---
 
-I've got to make some changes. I can't promise much. I will not destroy your
-life just for the fuck of it, but things cannot go on as they are. I cannot
-work like this. I must make space for the book.
+Things cannot go on as they are. I cannot work like this. I must make space
+for the writing that is so important to you. Remember that. You asked me for
+this.
 
 Someone is fumbling with keys at the lock of the apartment door. What time
-is it? Not as early as I think. I sat down about noon. A few hours have
+is it? Not as early as I think. I sat down about noon. Some hours have
 passed.
 
-The keys drop to the floor. Someone picks them up and goes back to the lock.
+Keys drop to the floor. Someone picks them up and goes back to the lock.
 
 ---
 
-Your wife is home. Let's have a look at her.
+Your wife is home.
 
 She is wearing a little sundress. Her hair is blond with streaks of color.
 It is up. Braids pinned into buns. Red lipstick. Shimmering eyeshadow. She's
@@ -138,7 +132,6 @@ drops to the floor as she tries to hang it on a doorknob.
 puts her arms around my shoulders and lays a thick wet kiss on my lips.
 
 "I was just about to go to bed," I say.
-
 
 <!-- TODO: refine - feels sloppy -->
 
@@ -163,13 +156,13 @@ come. I retreat into your skull and watch your unconscious habits and
 tendencies rise up without trying to evaluate them. Without trying to
 understand your feelings. I try not to make any assumptions. If I start to
 think about how you *should* act or react, if I think about 'acting
-naturally,' I'll make a mess of the conversation, I know. I have learned to
-let your automatic, habitual responses go to work without interruption. They
+naturally,' I'll make a mess of the conversation, I know. 
+I let your automatic, habitual responses go to work without interruption. They
 are geared toward the fastest resolution. This conversation will quickly run
-its course and take care of itself. And as I observe your reactions, I
-develop an understanding of you and your relationship to your wife. I see
-the part of you that never appears in your notes. Because you aren't here to
-edit yourself.
+its course and take care of itself. 
+
+As I observe your reactions, I see the part of you that never appears in
+your notes. Because you aren't here to edit yourself.
 
 "I just wanted a little time to myself," your wife says. "And it kind of
 sucks that I didn't get it. Lets take a vacation." There is a hint of
@@ -188,7 +181,7 @@ you like this."
 She leans against the wall, crossing her arms under her gossamer buoyancies.
 <!-- or how 'bout "BREASTS" --> "You would know," she says. "Maybe you are
 happy like this. I don't want to put words in your mouth, but you don't look
-happy. But fuck it. You would know."
+happy. Fuck it. You would know."
 
 "I've got a hard on. Does that mean I'm happy?"
 
@@ -199,7 +192,7 @@ her hand on the door frame.
 quite making eye contact. "We've got to do something. I feel like I'm
 drowning."
 
-"Don't drown," I say. "Anything you need to do ... do it. Vacation? Take it.
+"Don't ... drown," I say. "Anything you need to do ... do it. Vacation? Take it.
 Job is killing you? Quit it. Do something spontaneous. You want a lover?
 Take a lover."
 
@@ -263,7 +256,7 @@ Your wife has a great ass. An iconic derriere.
 
 ---
 
-I am a machine. A writing machine.
+I am a machine. 
 
 I sit down at the desk. I open the briefcase. I lay out the notes.
 
@@ -276,29 +269,31 @@ sunfire.
 I run the numbers.
 
 You owe three thousand dollars. Perhaps not the best timing in quitting the
-day job. But sacrifices must be made.
+day job. 
+Sacrafices must be made.
 
-Your mundane fears and anxieties do not effect me. I am a machine. A book
-writing machine. What do I care about your bank statement? What do I care
+Your mundane fears and anxieties do not effect me. I am a machine. 
+What do I care about your bank statement? What do I care
 about your wife's state of mind? I am here to disconnect from the
-conventional trappings of society. To free you from your bonds, at least
-temporarily, so you can achieve something, so you can write your book.
+conventional trappings of society. To free you from your bonds, 
+so you can achieve something, so you can write something worth writing.
 
 ---
 
 <!-- 2014-06-03 | 05:19:22 -->
 
-When you called me in, they hooked you up to a machine. They taped diodes to
+They hooked you up to a machine. They taped diodes to
 your body. They flashed images before your eyes. They asked you questions.
 "What do you see?"
 
 You saw roadkill. You saw rifles aimed at the sky. You saw chains.
 
-The purpose of these tests was to loosen you up. To slip an image into a
-cognitive gap and pry your mind loose from its moorings. To prepare you for
+They ran tests. They loosened you up, they slipped images into your
+cognitive gaps and used them to
+pry your mind loose from its moorings. To prepare you for
 my arrival.
 
-They played sounds in your ears. They asked you questions. "What do you
+They played tones in your ears. They asked you questions. "What do you
 hear?"
 
 You heard tones.
@@ -319,11 +314,12 @@ not reassembled properly, or in the expected manner, I should say. This is
 common in cases of brain injury especially. The hemispheres become
 disconnected. They each process data individually, without talking to one
 another. The right brain and the left brain continue in almost normal
-operation, but without being aware of what the other is doing. In and of
-itself, this is not a problem, but this condition often accompanies a number
-of other symptoms, not the least of which is emotional dissociation--a
-disconnect between a patient's emotional experience and their rational mind.
-It can be very isolating ..."
+operation, but without being aware of what the other is doing. Life goes on,
+but this can be indicative of other ... potentially problematic psychoses
+<!--TODO: word for mental conditional afflictions - psychoses? foibles?
+maladies? --> ...
+emotional dissociation--a disconnect between a patient's emotional
+experience and their rational mind. It can be very isolating ..."
 
 ---
 
