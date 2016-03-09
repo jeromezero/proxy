@@ -3,7 +3,8 @@
 
 # Proxy
 
-## One <!--STATUS: second draft-->
+## One
+<!--STATUS: second draft-->
 
 I am not here to fuck up your life. I'm here to write a book. 
 
@@ -124,22 +125,18 @@ drops to the floor as she tries to hang it on a doorknob.
 
 "How's the family?" I ask.
 
-"I am so fucking exhausted," she says.
-
-"Fun?"
-
-"Sure. What are you doing up?" She sidles over and slips into my lap. She
-puts her arms around my shoulders and lays a thick wet kiss on my lips.
+"I am exhausted," she says."What are you doing up?" She sidles over and slips
+into my lap. She puts her arms around my shoulders and lays a thick wet kiss on
+my lips.
 
 "I was just about to go to bed," I say.
 
 <!-- TODO: refine - feels sloppy -->
 
-"Haven't been yet? Poor thing," she teases. "It was fine. I wanted to spend
-some time by myself, but my mom took all the time off from work, and she had
-plans for every day. I mean ... I can't really complain. We went to the spa.
-She took me shopping. We went to wineries. I wasn't going to drink. But I
-did."
+"Poor thing," she teases. "It was fine. I wanted to spend some time by myself,
+but ... Mom took all the time off from work, and she had plans for every day. I
+mean ... I can't really complain. We went to the spa.  She took me shopping. We
+went to wineries. I wasn't going to drink. But I did."
 
 "I see that," I say. I try not to pay attention to the way her ass feels,
 pressing into my lap.
@@ -148,82 +145,83 @@ pressing into my lap.
 
 "You gonna give me a hard time about it?"
 
-"Nope. I'm ... tired is all. Trying to focus on this book, but there's so
-much to do. I hate always feeling like I owe people my time."
+"Nope. I'm just ... tired. I want to focus on my own work, but there's so much
+to do. I hate always feeling like I owe people my time."
 
-I don't know what I am saying until I say it. I just relax and let the words
-come. I retreat into your skull and watch your unconscious habits and
-tendencies rise up without trying to evaluate them. Without trying to
-understand your feelings. I try not to make any assumptions. If I start to
-think about how you *should* act or react, if I think about 'acting
-naturally,' I'll make a mess of the conversation, I know. 
-I let your automatic, habitual responses go to work without interruption. They
-are geared toward the fastest resolution. This conversation will quickly run
-its course and take care of itself. 
-
-As I observe your reactions, I see the part of you that never appears in
+I don't know what I am saying until I say it. I just relax and let the
+words come. I retreat into your skull and watch your unconscious
+habits and tendencies rise up without trying to evaluate them. Without
+trying to understand your feelings. I try not to make any assumptions.
+<!-- If I start to -->
+<!-- think about how you *should* act or react, if I think about 'acting -->
+<!-- naturally,' I'll make a mess of the conversation, I know.  -->
+I let your automatic, habitual responses go to work without interruption.
+And as I observe your reactions, I see the part of you that never appears in
 your notes. Because you aren't here to edit yourself.
 
 "I just wanted a little time to myself," your wife says. "And it kind of
 sucks that I didn't get it. Lets take a vacation." There is a hint of
-question in her voice.
+question in her voice. She stands up. Takes off her shoes.
 
-"Sounds good," I say. "It'd be good for you to spend some time alone. I've
-got to get this book done, but you should do it. You could even go camping
-for a few days, if you really want to be alone. I'll drive you. Drop you off
-and pick you up a few days later."
+"Sounds good," I say. "It'd be good for you to spend some time alone. I've got
+to get this book done, but you could go camping for a few days. I'll drive
+you. If you really want to be alone, I can drop you off and pick you up a few
+days later."
 
-"All you ever do is work," she says. "You are so unhappy. It hurts me to see
+"You are so unhappy," she says. "All you ever do is work. It hurts me to see
 you like this."
 
 "I am unhappy?"
 
-She leans against the wall, crossing her arms under her gossamer buoyancies.
-<!-- or how 'bout "BREASTS" --> "You would know," she says. "Maybe you are
-happy like this. I don't want to put words in your mouth, but you don't look
-happy. Fuck it. You would know."
+She leans against the wall, crossing her arms under her breasts. "You would
+know," she says. "Maybe you *are* happy like this. I don't want to put words in
+your mouth, but you don't look happy. Fuck it. You would know."
 
-"I've got a hard on. Does that mean I'm happy?"
+"I've got a hard on. Doesn't that mean I'm happy?"
 
-She gets up and walks toward the bathroom. She pauses with her back to me,
-her hand on the door frame.
+She turns away, then pauses, her hand on the frame of the bathroom door. "You
+work too much," she says. She looks back at me over her shoulder, not quite
+making eye contact. "We've got to do something. I feel like I'm drowning."
 
-"You work too much," she says. She looks back at me over her shoulder, not
-quite making eye contact. "We've got to do something. I feel like I'm
-drowning."
-
-"Don't ... drown," I say. "Anything you need to do ... do it. Vacation? Take it.
-Job is killing you? Quit it. Do something spontaneous. You want a lover?
+"Don't ... drown," I say. "Anything you need to do ... do it. Vacation? Take
+it.  Job is killing you? Quit it. Do something spontaneous. You want a lover?
 Take a lover."
 
-"Shut the fuck up," your wife says. "I thought about leaving town though.
-Seriously. On my way back here. I thought about going straight to the
-airport and flying to Hawaii or some shit. Fucking Facebook gives me
-anxiety. Everybody puts up their 'my perfect life' travel pictures. People
-that ... that I never thought would amount to anything ... people that I
-left behind are living perfect lives. They stayed at home while I went to
-New York, while I studied, while I earned my degree, started my own
-business, got married. They did nothing. Now they have cocktails in Paris,
-take business trips to Tokyo. We work our asses off in this filthy fucking
-city and can barely pay our bills. I can't go in to work without having a
-panic attack. I can't face that place without taking a couple of shots of
+
+"Shut up," your wife says. "I thought about leaving. Instead of coming back
+here . I thought about going straight to the airport and flying to ...  Hawaii
+... or some shit.
+
+<!-- TODO: a little action detail here? then polish up this next graf. it's
+important -->
+
+"Facebook gives me anxiety. Everybody puts up their 'my perfect life' travel
+pictures. People that ... that I never thought would amount to anything
+... people that I left behind are living perfect lives. They stayed at home
+while I went to New York, while I studied, while I earned my degree, started my
+own business, got married. They did nothing. Now they have cocktails in Paris,
+take business trips to Tokyo. We work our asses off in this filthy fucking city
+and can barely pay our bills. I can't go in to work without having a panic
+attack. I can't face that place without taking a couple of shots of
 whiskey. That's not healthy. I didn't used to have this kind of anxiety. I
 didn't used to feel so ... trapped."
 
 "You want to get on a plane? Get on a plane," I say. "We'll be fine."
 
-"No. We won't," she says. "And ... I don't want to go without you."
+"No. We won't," she says. "... I don't want to go without you."
 
 ## Two <!-- STATUS: second draft -->
 
 <!-- 2014-03-29 | 13:32:18 -->
 
-I go to bed at six in the evening. I stay down for three hours. I wake to
+I lie down at six in the evening. I stay down for three hours. I wake to
 the sound of coffee grinding. Your wife does this for you often.
 
 I try to get in a good 25 minutes of focused time at your desk, but it is
-impossible. Your wife is telling me about things she's seen on Buzzfeed
-today. She follows Buzzfeed on Facebook.
+impossible.
+
+Your wife tells me about things she's seen on Buzzfeed today. She follows
+Buzzfeed on Facebook.
 
 "Can't you just go to Buzzfeed?" I say.
 
@@ -756,7 +754,7 @@ coming to town on Sunday. We're getting a hotel room."
 
 She rolls over and goes to sleep.
 
-## four <!-- STATUS: second draft -->
+## Four <!-- STATUS: second draft -->
 
 <!-- 2014-03-30 | 05:22:54 -->
 
@@ -834,3 +832,4 @@ She turns away from me and wraps her arms around a pillow.
 I get up and go back to your desk. I begin to write. The taste of your wife
 lingers on my tongue, and the words drip from my pen. I couldn't stop them
 if I tried.
+ 
