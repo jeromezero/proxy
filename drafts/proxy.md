@@ -3,7 +3,9 @@
 
 # Proxy
 
-## One <!--STATUS: second draft-->
+## One 
+
+<!--STATUS: second draft-->
 
 I am not here to fuck up your life. I'm here to write a book. 
 
@@ -23,9 +25,6 @@ This is going to hurt.
 I told you: 
 If you know it, I know it. 
 
-But still, you've left stacks of notes for me. I told you not to. I told you
-not to waste your time. <!-- our time. --> 
-
 I don't need to know how to jiggle the toilet handle. I don't need the
 mnemonic devices you've devised to keep all the keys on your several
 keyrings straight. I don't need your work schedules, your training manuals
@@ -33,25 +32,15 @@ or your roles-and-responsibilities cheat sheets. I don't care how many jobs
 you have, how hard you work or what your facebook password is. I am not
 interested. I am not impressed.
 
-Your journals are full of lies. The occasional truths you write are
-obscured, buried by self-conscious insecurities or disguised as half-baked
-science fiction.
+<!-- 2016-03-20 | 08:37:50 -->
 
-However, one leather-bound journal breaks this rule with a few honest
-entries. I find it under your bed, in a cardboard box with crushed corners
-labeled 'linens.'
+The things you tell the world are of no interest. Whether you realize it or not, they are lies of self-promotion. But your secrets ... the things you *hide,* the things you don't want anyone to see ... these are treasures. These are honest. 
 
-In it, there is an essay (with a date printed neatly at the top of the
-page--it is only a few weeks old) in which you describe finding your
-neighbor lying dead on his apartment floor. This one is good, but *A List of
-Things Wrong With Me* (appearing a few pages prior to the death of a
-neighbor piece) is better. It is a list of things wrong with you. It
-starts with "My penis points slightly to the left," and moves through "I
-suffer from chronic dandruff," and "hair growing out of my ears," to the
-more interesting "I am so out of touch with my own emotional experience that
-I seldom have an accurate understanding of my own feelings--in fact, I tend
-to transmute every difficult emotion into sexual desire. Things that should
-make me angry give me a hard on."
+I find a leather-bound journal under your bed, in a cardboard box with crushed corners labeled 'linens.' 
+
+In it, there is an essay (with a date printed neatly at the top of the page--it is only a few weeks old) in which you describe finding your neighbor lying dead on his apartment floor. This one is good, but *A List of Things Wrong With Me* (appearing a few pages prior to the death of a neighbor piece) is better. It is a list of things wrong with you. It starts with "My penis points slightly to the left," and moves through "I suffer from chronic dandruff," and "hair growing out of my ears," to the more interesting "I am so out of touch with my own emotional experience that I seldom have an accurate understanding of my own feelings--in fact, I tend to transmute every difficult emotion into sexual desire. Things that should make me angry give me a hard on."
+
+A treasure.
 
 ---
 
